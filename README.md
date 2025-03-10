@@ -14,7 +14,7 @@ Une API REST pour gérer les employés avec Spring Boot, JPA et Spring Security.
 - **Java 17**  
 - **Spring Boot 3** (Spring MVC, Spring Security)  
 - **Spring Data JPA** (avec Hibernate)  
-- **Base de données** : H2 (ou MySQL/PostgreSQL)  
+- **Base de données** : MySQL 
 - **Maven** pour la gestion des dépendances  
 
 ## Sécurité
