@@ -33,7 +33,7 @@ L’authentification se fait via **Basic Auth**.
 
 1. **Cloner le repo**  
    ```sh
-   git clone https://github.com/tony044/Employee-Management-API.git
+   git clone https://github.com/Tony044/Employee-Management-API.git
    ```
    ```sh
    cd Employee-Management-API
